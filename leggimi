@@ -1,0 +1,3 @@
+Ho provato ad aggiungere l'immagine creata su docker, su Docker Hub.
+Ma, nonostante abbia eseguito i comandi già utilizzati negli altri esercizi di docker, i quali hanno avuto un risultato positivo, questa volta non hanno funzionato.
+Perciò inserisco qui su Github sia il Dockerfile sia lo screeshot che mostra la creazione dell'immagine.  
